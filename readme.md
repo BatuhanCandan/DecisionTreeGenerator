@@ -1,8 +1,6 @@
 # Decision Tree Generator
 
-Decision Tree Generator is a PHP library that generates and vizualites a decision tree on browser from csv file. 
-
-You can reach the sample application with this IP address: http://188.166.19.196/decisiontree
+Decision Tree Generator is a PHP library that generates and visualizes a decision tree from a CSV file on a browser.
 
 CSS codes of decision tree are taken from [TheCodePlayer] (http://thecodeplayer.com/walkthrough/css3-family-tree)
 
