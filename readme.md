@@ -33,7 +33,7 @@ echo $tree;
 
 * When using the Decision Tree Generator for your csv file, your class feature must be defined at last part of the line.
 
-![example csv](http://s10.postimg.org/h332yxyt5/Untitled.png)
+![example csv](assets/example_csv_image.png)
 
 * Due to the fact the width of visualized tree is larger than the web page's width - it apparently doesn't look nice. I will try to fix this issue when I have time. Maybe you would like to fix it and fork this repository :) If you have any queries about the library, you can send me an email.
 
